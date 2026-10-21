@@ -22,6 +22,7 @@ The prototype was developed collaboratively. The original reports retain their f
 
 The reports contain differing descriptions of the working-fluid formulation and pressure system. Verify those details against the team's test records before presenting the design as a reproducible or validated build. The Churchill workbook's EE Units sheet also contains a broken `#REF!` header cell. Original source files were not modified.
 
-## Privacy
+## Excluded files
 
-This repository is intended to be private. Personal résumé and job-application files are intentionally excluded.
+Personal résumé and job-application files are excluded.
+
